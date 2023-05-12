@@ -1,0 +1,81 @@
+.profileContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5rem;
+}
+.profile {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
+  border-top: 2px solid #c4e2e4;
+}
+.profile-infoCol {
+  display: flex;
+  flex-direction: column;
+  margin-top: 5rem;
+}
+.profile-heading {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 3rem;
+  line-height: 3rem;
+}
+.profile-infoText {
+  display: flex;
+}
+.profile-box {
+  display: flex;
+  flex-direction: column;
+}
+.right {
+  display: flex;
+  flex-direction: column;
+}
+.two-part {
+  display: flex;
+}
+.keys {
+  display: flex;
+  flex-direction: column;
+  width: 12rem;
+  margin-right: 3rem;
+}
+.values {
+  display: flex;
+  flex-direction: column;
+  width: 15rem;
+  margin-right: 3rem;
+}
+.content-heading {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.85rem;
+  line-height: 1.75rem;
+  color: rgb(13, 136, 218);
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+.keys p {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.125rem;
+  line-height: 200%;
+}
+.values p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.125rem;
+  line-height: 200%;
+}
+.about-box p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.125rem;
+  line-height: 150%;
+}
+.about-box {
+  padding-right: 6rem;
+}

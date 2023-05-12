@@ -133,7 +133,7 @@ body {
 }
 .App {
   display: flex;
-  max-width: 1440px;
+  max-width: 1550px;
   flex-direction: column;
 }
 

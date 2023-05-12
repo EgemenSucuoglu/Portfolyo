@@ -78,7 +78,7 @@
   border-radius: 6px;
 }
 .hire-button .whiteText {
-  color: #ffffff;
+  color: #ffffff !important;
   font-size: 1.125rem;
 }
 .hire-button:hover {

@@ -35,7 +35,7 @@ export const postData_En = {
   projectsTwitterDesc:
     "You will feel yourself in the 90’s while navigating our designed twitter application.In this application, which is designed by us, you can tweet as you wish and you can see the tweets of other individuals. In addition, users can easily see their profile photos, number of followers and tweets.",
 
-  footerTitle1: "Let’s work together on",
+  footerTitle1: "Let’s work together on ",
   footerTitle2: "your next product.",
   footerBlog: "Personal Blog",
   profileTitle: "Profile",

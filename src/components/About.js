@@ -21,7 +21,9 @@ export default function About() {
           <p className="intro">{data.aboutDesc}</p>
           <div className="buttons">
             <div className="hire-button">
-              <p className="whiteText">{data.aboutHireMe}</p>
+              <a className="whiteText" href="mailto:sucuogluegemen1@gmail.com">
+                Contact!
+              </a>
             </div>
 
             <div className="github-button">
